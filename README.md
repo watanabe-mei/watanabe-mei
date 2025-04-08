@@ -17,7 +17,7 @@
                                                                                                                            `--`-'   
                                               "Code with Soul, Build with Love"    
 ```
-
+---
 ## 👋 こんにちは、@watanabe-meiです！
 
 ### 🎨 自己紹介
@@ -42,10 +42,12 @@
 
 ### 🌱 一緒に育ち合い、シェアし合いましょう。
   🌱 Hãy cùng nhau phát triển và sẻ chia giá trị thực。
-
+  
+---
 ## 💕 コラボしたいこと
-
 ### 子ども向けの学習Webサイト、感性に響くポートフォリオサイト、AI×Web教育プロジェクトなど、心を動かすものづくりに共感しています。
+---
+
 ## 🔧 技術スタック（Tech Stack）
 
 ### 🎨 フロントエンド（UI構築）
@@ -61,17 +63,18 @@
 ### ☁️ 開発ツール
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+---
 
 ## 📢 連絡先
-
-お気軽にどうぞ♪📧 meiwatanabe.mei2k@gmail.com　💬 Zalo: https://zalo.me/
+### お気軽にどうぞ♪📧 meiwatanabe.mei2k@gmail.com　💬 Zalo: https://zalo.me/
+---
 
 ## ⚡ 面白い事実
-
-趣味は🌌星を見上げること。そして、🌐コードで誰かの心をそっと動かすことです。
+### 趣味は🌌星を見上げること。そして、🌐コードで誰かの心をそっと動かすことです。
+---
 
 ## 🔗 ハッシュタグ・キーワード
- 
 #WebsiteCoding #CreativeCoder #Webアート #学び合う仲間 #HTML #CSS #JavaScript
+---
 
 ## 📝 このリポジトリは、GitHubプロフィールのREADMEです！
